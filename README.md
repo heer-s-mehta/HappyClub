@@ -37,6 +37,7 @@ To run the HappyClub Jokes Web Application locally, follow these steps:
 We hope HappyClub brings laughter and amusement to all its users. Enjoy sharing and discovering hilarious jokes with the HappyClub community!
 
 DEMO IMAGES
+
 ![happyclub3](https://github.com/user-attachments/assets/73f9cd30-2916-4d44-9dcd-ce2d25a33d7f)
 ![happyclub](https://github.com/user-attachments/assets/117d5f07-8dc7-4772-9965-143c964da688)
 ![happyclub2](https://github.com/user-attachments/assets/1bf3df80-766e-4b98-bf10-ac65746273bd)
