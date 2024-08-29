@@ -27,6 +27,7 @@ We welcome contributions to HappyClub! If you'd like to enhance existing feature
 
 Installation and Usage:
 To run the HappyClub Jokes Web Application locally, follow these steps:
+
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies by running the appropriate commands.
 3. Configure the database connection string in the application's configuration files.
@@ -34,3 +35,12 @@ To run the HappyClub Jokes Web Application locally, follow these steps:
 5. Access the application through the provided URL, usually http://localhost:port.
 
 We hope HappyClub brings laughter and amusement to all its users. Enjoy sharing and discovering hilarious jokes with the HappyClub community!
+
+DEMO IMAGES
+![happyclub3](https://github.com/user-attachments/assets/73f9cd30-2916-4d44-9dcd-ce2d25a33d7f)
+![happyclub](https://github.com/user-attachments/assets/117d5f07-8dc7-4772-9965-143c964da688)
+![happyclub2](https://github.com/user-attachments/assets/1bf3df80-766e-4b98-bf10-ac65746273bd)
+
+DEMO VIDEO
+https://github.com/user-attachments/assets/c50ece68-8519-4c1d-8133-230ce812416d
+
